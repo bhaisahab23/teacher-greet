@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='teacher_greet',
+    name='teacher-greet',
     version='1.0.0',
     author='Thakur',
     description='A fun animated greeting package for Teachers’ Day',
